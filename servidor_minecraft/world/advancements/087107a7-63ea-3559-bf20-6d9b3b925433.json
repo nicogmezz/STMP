@@ -508,15 +508,16 @@
     "criteria": {
       "minecraft:pillager": "2024-07-26 10:35:06 +0000",
       "minecraft:skeleton": "2024-07-23 13:01:33 +0000",
+      "minecraft:phantom": "2024-12-12 19:40:34 +0000",
+      "minecraft:witch": "2024-07-25 14:00:26 +0000",
+      "minecraft:husk": "2024-07-23 20:55:27 +0000",
       "minecraft:piglin": "2024-07-24 15:33:05 +0000",
       "minecraft:enderman": "2024-07-25 12:16:56 +0000",
-      "minecraft:witch": "2024-07-25 14:00:26 +0000",
       "minecraft:spider": "2024-07-23 15:46:25 +0000",
       "minecraft:zombie": "2024-07-23 13:57:56 +0000",
       "minecraft:creeper": "2024-07-23 20:29:25 +0000",
       "minecraft:drowned": "2024-07-24 17:01:14 +0000",
       "minecraft:zombie_villager": "2024-07-25 17:04:34 +0000",
-      "minecraft:husk": "2024-07-23 20:55:27 +0000",
       "minecraft:slime": "2024-11-24 15:50:06 +0000"
     },
     "done": false
