@@ -23,3 +23,4 @@
 [16:42:20] [Server thread/INFO]: Done (2.819s)! For help, type "help"
 [16:42:31] [Server thread/INFO]: UrtryBlade[/127.213.125.195:41469] logged in with entity id 7 at (-283.69999998807907, -16.0, -2009.3603718807128)
 [16:42:31] [Server thread/INFO]: UrtryBlade joined the game
+[16:54:59] [Server thread/WARN]: Mismatch in destroy block pos: jh{x=72, y=53, z=-1757} jh{x=72, y=54, z=-1758}
