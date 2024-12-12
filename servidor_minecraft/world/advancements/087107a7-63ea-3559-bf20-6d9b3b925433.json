@@ -3326,9 +3326,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/quartz": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-12 19:29:27 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/suspicious_stew_from_cornflower": {
     "criteria": {
       "has_cornflower": "2024-12-12 17:14:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/quartz_from_blasting": {
+    "criteria": {
+      "has_nether_quartz_ore": "2024-12-12 19:29:27 +0000"
     },
     "done": true
   },
