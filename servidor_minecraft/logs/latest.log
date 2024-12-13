@@ -45,3 +45,17 @@
 [13:20:43] [Server thread/WARN]: UrtryBlade moved wrongly!
 [14:41:21] [Server thread/INFO]: Villager cpj['Farmer'/29380, l='ServerLevel[world]', x=127.83, y=78.00, z=-1724.50] died, message: 'Farmer was slain by Zombie'
 [14:54:43] [Server thread/INFO]: Villager cpj['Librarian'/29418, l='ServerLevel[world]', x=76.53, y=55.05, z=-1751.48] died, message: 'Librarian drowned'
+[15:04:09] [Server thread/INFO]: Villager cpj['Librarian'/29416, l='ServerLevel[world]', x=76.69, y=55.05, z=-1757.31] died, message: 'Librarian drowned'
+[15:07:24] [Server thread/INFO]: UrtryBlade lost connection: Disconnected
+[15:07:24] [Server thread/INFO]: UrtryBlade left the game
+[15:07:33] [Server thread/INFO]: Stopping the server
+[15:07:33] [Server thread/INFO]: Stopping server
+[15:07:33] [Server thread/INFO]: Saving players
+[15:07:33] [Server thread/INFO]: Saving worlds
+[15:07:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[15:07:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[15:07:33] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[15:07:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[15:07:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[15:07:33] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[15:07:33] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
